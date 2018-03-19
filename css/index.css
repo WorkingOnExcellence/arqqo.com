@@ -10,7 +10,7 @@ body, html {
 
 /*splash image*/
 .splash-img {
-    background-image: url("/IMG/Logo-coming-soon_00.png");
+    background-image: url("/img/Logo-coming-soon_00.png");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
